@@ -13,6 +13,6 @@
 4. スタート地点とゴール地点を繋ぐルート検索を行う。
 
 ## reference
-Google Map クリックして座標取得(https://qiita.com/SOJO/items/d43a28a6fe27de3cc85)
-時差を割り出す(https://www.pazru.net/js/date/4.html)
-ルート検索（http://phpjavascriptroom.com/?t=ajax&p=googlemapsapiv3_directions)
++ Google Map クリックして座標取得(https://qiita.com/SOJO/items/d43a28a6fe27de3cc85)
++ 時差を割り出す(https://www.pazru.net/js/date/4.html)
++ ルート検索（http://phpjavascriptroom.com/?t=ajax&p=googlemapsapiv3_directions)
